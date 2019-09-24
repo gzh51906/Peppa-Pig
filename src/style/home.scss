@@ -1,0 +1,28 @@
+//轮播图样式
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 200px;
+    line-height: 200px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+  .ant-carousel .slick-slide img {
+       height:200px;
+       width:100%;
+  }
+  .daRen{
+      padding:10px;
+      font-weight:600;
+      width:100%;
+  }
+  h2 .people{
+     float:right;
+     color:#888;
+     font-weight:500;
+     font-size:14px;
+     padding-right:15px;
+  }
